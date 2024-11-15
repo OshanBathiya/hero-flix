@@ -5,9 +5,9 @@ body {
     margin: 0;
 }
 
-.header, footer {
+.header, .footer {
     background-color: #1F2937;
-    padding: 0px 125px 100px 125px;
+    padding: 0px 125px 0px 125px;
 }
 
 /* navigation bar section styles */
@@ -78,5 +78,15 @@ p {
     font-weight: 550;
     color: #F9FAF8;
     background-color: #3882F6;
+}
+
+/* footer section styles */
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
