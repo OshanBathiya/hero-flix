@@ -1,1 +1,1 @@
-# Basic website landing page using html and css
+# Basic website landing page for Hero-Flix, a superhero content streaming platform using html and css
